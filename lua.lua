@@ -1,1 +1,1 @@
-
+string hello = 'hello'
